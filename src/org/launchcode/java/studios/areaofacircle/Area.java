@@ -12,7 +12,7 @@ public class Area {
     input.close();
 
     A = Circle.getArea(r);
-    System.out.println("The Area is: " + A);
+    System.out.println("The area of a circle of radius  "+ r + "is: " + A);
 
     }
 }
