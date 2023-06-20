@@ -3,6 +3,7 @@ package org.launchcode.java.studios.areaofacircle;
 import java.util.Scanner;
 public class Area {
     public static void main(String[] args) {
+
         double A;
         double pi = 3.14;
         double r;
